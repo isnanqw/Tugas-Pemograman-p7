@@ -25,6 +25,6 @@ Output Program (hasil investasi 8 bulan):
 
 Latihan 3
 ![alt image](https://github.com/isnanqw/Tugas-Pemograman-p7/blob/cf033cbf66f248316d3fa7dd477630267ae95c65/foto/7Screenshot%202025-11-01%20235407.png)
-Kode Pemograman 
+Kode Pemograman Uang di ATM :
 
-Output Program 
+Output Program Mengambil Program :
