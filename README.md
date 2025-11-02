@@ -22,3 +22,5 @@ Latihan 2
 Kode Pemograman investasi dalam bulan:
 
 Output Program (hasil investasi 8 bulan):
+Latihan 3
+![alt image]()
