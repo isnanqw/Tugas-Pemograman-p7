@@ -16,5 +16,6 @@ Latihan 1
 Masukan Pengguna : Masukkan nilai N: 5
 
 Output Program (nilai acak akan berbeda setiap kali dijalankan):
+
 Latihan 2
-![alt image]()
+![alt image](https://github.com/isnanqw/Tugas-Pemograman-p7/blob/29c3f90fe834504e3a20aae6ce561ef00dd53a8a/foto/8Screenshot%202025-11-01%20234729.png)
