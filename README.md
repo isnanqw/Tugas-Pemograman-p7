@@ -12,3 +12,4 @@ NIM		: 312510355
 DOSEN	: Agung Nugroho, S.Kom., M.Kom. 
 
 ![alt text](?raw=true)https://github.com/isnanqw/Tugas-Pemograman-p7/blob/main/9Screenshot%202025-11-01%20231317.png
+<!-- Uploading "9Screenshot 2025-11-01 231317.png"... -->
