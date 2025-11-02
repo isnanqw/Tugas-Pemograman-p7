@@ -1,7 +1,7 @@
 # Tugas-Pemograman-p7
 Halo semuanya terima kasih sudah mampir di github ini 
 
-pada pertemuan kali ini kita akan membahas materi tentang perulangan kode pemograman 
+pada pertemuan kali ini kita akan membahas materi tentang for dan while kode pemograman 
 
 izin kan saya memperkenalkan diri 
 
@@ -13,4 +13,8 @@ DOSEN	: Agung Nugroho, S.Kom., M.Kom.
 
 Latihan 1
 ![image alt](https://github.com/isnanqw/Tugas-Pemograman-p7/blob/3053668592be694e5b5a910890ff5d4bcf6609ce/9Screenshot%202025-11-01%20231317.png)
+Masukan Pengguna : Masukkan nilai N: 5
 
+Output Program (nilai acak akan berbeda setiap kali dijalankan):
+Latihan 2
+![alt image]()
