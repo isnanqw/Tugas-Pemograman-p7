@@ -13,7 +13,7 @@ DOSEN	: Agung Nugroho, S.Kom., M.Kom.
 
 Latihan 1
 ![image alt](https://github.com/isnanqw/Tugas-Pemograman-p7/blob/3053668592be694e5b5a910890ff5d4bcf6609ce/9Screenshot%202025-11-01%20231317.png)
-Masukan Pengguna : Masukkan nilai N: 5
+Masukkan nilai N: 5
 
 Output Program (nilai acak akan berbeda setiap kali dijalankan):
 
@@ -23,4 +23,4 @@ Kode Pemograman investasi dalam bulan:
 
 Output Program (hasil investasi 8 bulan):
 Latihan 3
-![alt image]()
+![alt image](https://github.com/isnanqw/Tugas-Pemograman-p7/blob/81743d212259e9659aa6c87e1b9e5f575a30228c/foto/9Screenshot%202025-11-01%20231317.png)
